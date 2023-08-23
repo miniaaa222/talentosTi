@@ -1,0 +1,22 @@
+ex.1 
+let a ficara igual 10
+let b ficara igual 10
+e o b fica igual 5
+ total ficará  tudo igual a 5 e 10 pois somando a letra a e b fica igual a 5 e 10
+
+ex.2
+ let igual a 10
+let b igual a 20
+let c ficara igual a que seria 10
+e b e a letra c igual a letra a que seria 10
+a letra a e b seria igual a 20
+entao a letra a+ b + c 10 20 10
+
+ex.3
+
+
+ let horasTrabalhadas
+
+let saLarioDiario 
+
+eu acho melhor esses nomes é mais intuitivo e é camelCase
