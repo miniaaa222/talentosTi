@@ -1,1 +1,2 @@
-repositorio da aula
+# aula-14
+Exercícios com objetos em JavaScript.
